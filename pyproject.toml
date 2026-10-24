@@ -1,0 +1,32 @@
+[project]
+name = "extraction-lanes-demo"
+version = "0.1.0"
+description = "Example code: extraction lanes, a fail-closed redaction gate, a typed judge and a catalog matcher, run on an example corpus of calibration certificates."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.12"
+dependencies = [
+    "pymupdf>=1.24",
+    "rapidfuzz>=3.9",
+    "httpx>=0.27",
+    "ollama>=0.4",
+]
+
+[dependency-groups]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]

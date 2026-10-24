@@ -1,0 +1,87 @@
+page,printed_label,value,unit,min,max
+1,Flow 50 % point reading,29.94,L/min,29.70,30.30
+1,Gain error reading,0.02,%,-0.05,0.05
+1,Temperature at full scale point,100.01,°C,99.85,100.15
+1,Thermal coefficient reading,0.010,%/K,-0.020,0.020
+1,Reading point 3: supply voltage test point,24.00,V,23.50,24.50
+1,24 h drift test point,0.022,%,0.000,0.080
+1,Reading point 3: bridge resistance reading,348.71,Ohm,345.00,355.00
+1,Temperature zero point reading,0.04,°C,-0.15,0.15
+1,Reading point 3: linearity error reading,0.07,%,0.00,0.10
+1,Cable length check,3.54,m,1.00,5.00
+1,Leak rate test point,0.23,mL/min,0.00,0.50
+1,Hysteresis reading,0.06,%,0.00,0.10
+1,Cable resistance test point,1.14,Ohm,0.00,2.00
+1,"Flow at full scale point, run 2",60.13,L/min,59.70,60.30
+1,Flow 75 % point reading,45.14,L/min,44.70,45.30
+1,Resolution test point,0.004,bar,0.001,0.010
+1,"Overload recovery test point, bench check, run 2",2.86,s,0.00,5.00
+1,Insulation resistance test point,617.51,MOhm,100.00,1000.00
+2,Reading point 3: ambient temperature reading,25.95,°C,18.00,28.00
+2,Reading point 3: ambient humidity reading,48.63,%RH,30.00,70.00
+2,Temperature 50 % point reading,50.01,°C,49.85,50.15
+2,Flow zero point reading,-0.05,L/min,-0.30,0.30
+2,"Short-term stability reading, bench check",0.022,%,0.000,0.030
+2,"Output current high end test point, bench check",19.995,mA,19.980,20.020
+2,Reading point full scale: pressure,9.999,bar,9.980,10.020
+2,"Span error reading, bench check",-0.06,%,-0.10,0.10
+2,Offset error reading,-0.02,%,-0.05,0.05
+2,Temperature 75 % point reading,75.01,°C,74.85,75.15
+2,Reading point 3: output noise reading,1.60,mV,0.00,2.00
+2,"Excitation voltage test point, bench check, run 2",9.95,V,9.90,10.10
+2,Repeatability reading,0.012,%,0.000,0.050
+2,"Shift after overload test point, bench check",0.03,%,-0.05,0.05
+2,Flow 25 % point reading,15.14,L/min,14.70,15.30
+2,Pressure 25 % point reading,2.491,bar,2.480,2.520
+2,Output current low end test point,4.009,mA,3.980,4.020
+2,Reading point 75 %: pressure,7.490,bar,7.480,7.520
+2,"Temperature at 25 % point, bench A",25.06,°C,24.85,25.15
+2,Vibration error test point,0.05,%,0.00,0.10
+2,Response time reading,0.55,s,0.00,2.00
+2,Pressure zero point reading,-0.005,bar,-0.020,0.020
+2,Pressure 50 % point reading,4.990,bar,4.980,5.020
+2,Reading point 50 %: flow,29.86,L/min,29.70,30.30
+2,"Gain error reading, run 2",-0.00,%,-0.05,0.05
+2,Temperature full scale point reading,100.00,°C,99.85,100.15
+3,Display brightness check,76.21,%,50.00,100.00
+3,"Thermal coefficient reading, run 2",-0.006,%/K,-0.020,0.020
+3,Supply voltage test point,24.27,V,23.50,24.50
+3,Firmware build check,6.17,id,1.00,9.00
+3,"Display brightness check, run 2",64.04,%,50.00,100.00
+3,Reading point 3: 24 h drift test point,0.026,%,0.000,0.080
+3,Bridge resistance reading,351.91,Ohm,345.00,355.00
+3,"Temperature zero point reading, run 2",0.06,°C,-0.15,0.15
+3,Linearity error reading,0.07,%,0.00,0.10
+3,"Leak rate test point, bench check, after conditioning",0.23,mL/min,0.00,0.50
+3,Reading point 3: hysteresis reading,0.06,%,0.00,0.10
+3,"Cable resistance test point, run 2",0.99,Ohm,0.00,2.00
+3,Reading point full scale: flow,59.98,L/min,59.70,60.30
+3,"Flow 75 % point reading, run 2",44.96,L/min,44.70,45.30
+3,"Resolution test point, run 2",0.003,bar,0.001,0.010
+3,Reading point 3: overload recovery test point,2.76,s,0.00,5.00
+3,"Firmware build check, run 2",3.28,id,1.00,9.00
+3,"Insulation resistance test point, run 2",456.02,MOhm,100.00,1000.00
+3,Ambient temperature reading,24.00,°C,18.00,28.00
+3,"Ambient humidity reading, bench check, after conditioning",54.89,%RH,30.00,70.00
+3,Reading point 50 %: temperature,49.94,°C,49.85,50.15
+3,"Flow zero point reading, run 2",0.14,L/min,-0.30,0.30
+3,"Cable length check, run 2",3.17,m,1.00,5.00
+3,Short-term stability reading,0.018,%,0.000,0.030
+3,"Output current high end test point, bench check, run 2",20.004,mA,19.980,20.020
+3,"Reading point full scale: pressure, run 2",9.989,bar,9.980,10.020
+4,Span error reading,0.04,%,-0.10,0.10
+4,Reading point 3: offset error reading,-0.00,%,-0.05,0.05
+4,"Temperature 75 % point reading, run 2",74.91,°C,74.85,75.15
+4,"Output noise reading, bench check, after conditioning",1.12,mV,0.00,2.00
+4,"Excitation voltage test point, bench check, run 2, run 2",10.00,V,9.90,10.10
+4,"Display brightness check, run 3",72.84,%,50.00,100.00
+4,"Repeatability reading, bench check",0.033,%,0.000,0.050
+4,Shift after overload test point,0.01,%,-0.05,0.05
+4,Reading point 25 %: flow,14.88,L/min,14.70,15.30
+4,"Pressure 25 % point reading, run 2",2.505,bar,2.480,2.520
+4,"Output current low end test point, bench check, after conditioning",4.010,mA,3.980,4.020
+4,"Display brightness check, run 4",79.40,%,50.00,100.00
+4,Pressure at 75 % point,7.496,bar,7.480,7.520
+4,Reading point 25 %: temperature,25.01,°C,24.85,25.15
+4,"Vibration error test point, bench check, descending",0.04,%,0.00,0.10
+4,"Firmware build check, run 3",5.25,id,1.00,9.00

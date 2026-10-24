@@ -1,0 +1,161 @@
+doc,lang,printed_label,unit,min,max,code
+cert_en_clean,en,Flow 50 % point reading,L/min,29.70,30.30,FLOW_50
+cert_en_clean,en,Gain error reading,%,-0.05,0.05,GAIN
+cert_en_clean,en,Temperature at full scale point,°C,99.85,100.15,TEMP_FULL_FS
+cert_en_clean,en,Thermal coefficient reading,%/K,-0.020,0.020,TEMPCO
+cert_en_clean,en,Reading point 3: supply voltage test point,V,23.50,24.50,SUPV
+cert_en_clean,en,24 h drift test point,%,0.000,0.080,DRIFT24
+cert_en_clean,en,Reading point 3: bridge resistance reading,Ohm,345.00,355.00,BRIDGE
+cert_en_clean,en,Temperature zero point reading,°C,-0.15,0.15,TEMP_ZERO
+cert_en_clean,en,Reading point 3: linearity error reading,%,0.00,0.10,LINEAR
+cert_en_clean,en,Cable length check,m,1.00,5.00,none_of_these
+cert_en_clean,en,Leak rate test point,mL/min,0.00,0.50,LEAK
+cert_en_clean,en,Hysteresis reading,%,0.00,0.10,HYST
+cert_en_clean,en,Cable resistance test point,Ohm,0.00,2.00,CABRES
+cert_en_clean,en,"Flow at full scale point, run 2",L/min,59.70,60.30,FLOW_FULL_FS
+cert_en_clean,en,Flow 75 % point reading,L/min,44.70,45.30,FLOW_75
+cert_en_clean,en,Resolution test point,bar,0.001,0.010,RESOL
+cert_en_clean,en,"Overload recovery test point, bench check, run 2",s,0.00,5.00,OVREC
+cert_en_clean,en,Insulation resistance test point,MOhm,100.00,1000.00,INSRES
+cert_en_clean,en,Reading point 3: ambient temperature reading,°C,18.00,28.00,AMBT
+cert_en_clean,en,Reading point 3: ambient humidity reading,%RH,30.00,70.00,AMBH
+cert_en_clean,en,Temperature 50 % point reading,°C,49.85,50.15,TEMP_50
+cert_en_clean,en,Flow zero point reading,L/min,-0.30,0.30,FLOW_ZERO
+cert_en_clean,en,"Short-term stability reading, bench check",%,0.000,0.030,STAB
+cert_en_clean,en,"Output current high end test point, bench check",mA,19.980,20.020,IOUT1
+cert_en_clean,en,Reading point full scale: pressure,bar,9.980,10.020,PRES_FULL_FS
+cert_en_clean,en,"Span error reading, bench check",%,-0.10,0.10,SPANERR
+cert_en_clean,en,Offset error reading,%,-0.05,0.05,OFFSET
+cert_en_clean,en,Temperature 75 % point reading,°C,74.85,75.15,TEMP_75
+cert_en_clean,en,Reading point 3: output noise reading,mV,0.00,2.00,NOISE
+cert_en_clean,en,"Excitation voltage test point, bench check, run 2",V,9.90,10.10,EXCV
+cert_en_clean,en,Repeatability reading,%,0.000,0.050,REPEAT
+cert_en_clean,en,"Shift after overload test point, bench check",%,-0.05,0.05,ZSHIFT
+cert_en_clean,en,Flow 25 % point reading,L/min,14.70,15.30,FLOW_25
+cert_en_clean,en,Pressure 25 % point reading,bar,2.480,2.520,PRES_25
+cert_en_clean,en,Output current low end test point,mA,3.980,4.020,IOUT0
+cert_en_clean,en,Reading point 75 %: pressure,bar,7.480,7.520,PRES_75
+cert_en_clean,en,"Temperature at 25 % point, bench A",°C,24.85,25.15,TEMP_25
+cert_en_clean,en,Vibration error test point,%,0.00,0.10,VIBE
+cert_en_clean,en,Response time reading,s,0.00,2.00,RESP
+cert_en_clean,en,Pressure zero point reading,bar,-0.020,0.020,PRES_ZERO
+cert_en_clean,en,Pressure 50 % point reading,bar,4.980,5.020,PRES_50
+cert_en_clean,en,Reading point 50 %: flow,L/min,29.70,30.30,FLOW_50
+cert_en_clean,en,"Gain error reading, run 2",%,-0.05,0.05,GAIN
+cert_en_clean,en,Temperature full scale point reading,°C,99.85,100.15,TEMP_FULL_FS
+cert_en_clean,en,Display brightness check,%,50.00,100.00,none_of_these
+cert_en_clean,en,"Thermal coefficient reading, run 2",%/K,-0.020,0.020,TEMPCO
+cert_en_clean,en,Supply voltage test point,V,23.50,24.50,SUPV
+cert_en_clean,en,Firmware build check,id,1.00,9.00,none_of_these
+cert_en_clean,en,"Display brightness check, run 2",%,50.00,100.00,none_of_these
+cert_en_clean,en,Reading point 3: 24 h drift test point,%,0.000,0.080,DRIFT24
+cert_en_clean,en,Bridge resistance reading,Ohm,345.00,355.00,BRIDGE
+cert_en_clean,en,"Temperature zero point reading, run 2",°C,-0.15,0.15,TEMP_ZERO
+cert_en_clean,en,Linearity error reading,%,0.00,0.10,LINEAR
+cert_en_clean,en,"Leak rate test point, bench check, after conditioning",mL/min,0.00,0.50,LEAK
+cert_en_clean,en,Reading point 3: hysteresis reading,%,0.00,0.10,HYST
+cert_en_clean,en,"Cable resistance test point, run 2",Ohm,0.00,2.00,CABRES
+cert_en_clean,en,Reading point full scale: flow,L/min,59.70,60.30,FLOW_FULL_FS
+cert_en_clean,en,"Flow 75 % point reading, run 2",L/min,44.70,45.30,FLOW_75
+cert_en_clean,en,"Resolution test point, run 2",bar,0.001,0.010,RESOL
+cert_en_clean,en,Reading point 3: overload recovery test point,s,0.00,5.00,OVREC
+cert_en_clean,en,"Firmware build check, run 2",id,1.00,9.00,none_of_these
+cert_en_clean,en,"Insulation resistance test point, run 2",MOhm,100.00,1000.00,INSRES
+cert_en_clean,en,Ambient temperature reading,°C,18.00,28.00,AMBT
+cert_en_clean,en,"Ambient humidity reading, bench check, after conditioning",%RH,30.00,70.00,AMBH
+cert_en_clean,en,Reading point 50 %: temperature,°C,49.85,50.15,TEMP_50
+cert_en_clean,en,"Flow zero point reading, run 2",L/min,-0.30,0.30,FLOW_ZERO
+cert_en_clean,en,"Cable length check, run 2",m,1.00,5.00,none_of_these
+cert_en_clean,en,Short-term stability reading,%,0.000,0.030,STAB
+cert_en_clean,en,"Output current high end test point, bench check, run 2",mA,19.980,20.020,IOUT1
+cert_en_clean,en,"Reading point full scale: pressure, run 2",bar,9.980,10.020,PRES_FULL_FS
+cert_en_clean,en,Span error reading,%,-0.10,0.10,SPANERR
+cert_en_clean,en,Reading point 3: offset error reading,%,-0.05,0.05,OFFSET
+cert_en_clean,en,"Temperature 75 % point reading, run 2",°C,74.85,75.15,TEMP_75
+cert_en_clean,en,"Output noise reading, bench check, after conditioning",mV,0.00,2.00,NOISE
+cert_en_clean,en,"Excitation voltage test point, bench check, run 2, run 2",V,9.90,10.10,EXCV
+cert_en_clean,en,"Display brightness check, run 3",%,50.00,100.00,none_of_these
+cert_en_clean,en,"Repeatability reading, bench check",%,0.000,0.050,REPEAT
+cert_en_clean,en,Shift after overload test point,%,-0.05,0.05,ZSHIFT
+cert_en_clean,en,Reading point 25 %: flow,L/min,14.70,15.30,FLOW_25
+cert_en_clean,en,"Pressure 25 % point reading, run 2",bar,2.480,2.520,PRES_25
+cert_en_clean,en,"Output current low end test point, bench check, after conditioning",mA,3.980,4.020,IOUT0
+cert_en_clean,en,"Display brightness check, run 4",%,50.00,100.00,none_of_these
+cert_en_clean,en,Pressure at 75 % point,bar,7.480,7.520,PRES_75
+cert_en_clean,en,Reading point 25 %: temperature,°C,24.85,25.15,TEMP_25
+cert_en_clean,en,"Vibration error test point, bench check, descending",%,0.00,0.10,VIBE
+cert_en_clean,en,"Firmware build check, run 3",id,1.00,9.00,none_of_these
+cert_es_stacked,es,Control de brillo de pantalla,%,50.00,100.00,none_of_these
+cert_es_stacked,es,Punto de prueba de corriente de salida máxima,mA,19.980,20.020,IOUT1
+cert_es_stacked,es,Lectura de error de linealidad,%,0.00,0.10,LINEAR
+cert_es_stacked,es,Punto de prueba de resolución,bar,0.001,0.010,RESOL
+cert_es_stacked,es,Punto 3 - punto de prueba de desvío tras sobrecarga,%,-0.05,0.05,ZSHIFT
+cert_es_stacked,es,Punto 3 - lectura de histéresis,%,0.00,0.10,HYST
+cert_es_stacked,es,Punto 3 - lectura de ruido de salida,mV,0.00,2.00,NOISE
+cert_es_stacked,es,Lectura de tiempo de respuesta,s,0.00,2.00,RESP
+cert_es_stacked,es,Lectura de coeficiente térmico,%/K,-0.020,0.020,TEMPCO
+cert_es_stacked,es,Punto de prueba de deriva a 24 h,%,0.000,0.080,DRIFT24
+cert_es_stacked,es,"Lectura de error de alcance, control de banco",%,-0.10,0.10,SPANERR
+cert_es_stacked,es,Lectura de resistencia de puente,Ohm,345.00,355.00,BRIDGE
+cert_es_stacked,es,Control de longitud de cable,m,1.00,5.00,none_of_these
+cert_es_stacked,es,"Temperatura en punto fondo de escala, banco A",°C,99.85,100.15,TEMP_FULL_FS
+cert_es_stacked,es,Lectura de repetibilidad,%,0.000,0.050,REPEAT
+cert_es_stacked,es,Punto de prueba de tensión de alimentación,V,23.50,24.50,SUPV
+cert_es_stacked,es,Punto de prueba de tensión de excitación,V,9.90,10.10,EXCV
+cert_es_stacked,es,"Lectura de temperatura ambiente, control de banco, ciclo 2",°C,18.00,28.00,AMBT
+cert_es_stacked,es,Lectura de error de ganancia,%,-0.05,0.05,GAIN
+cert_es_stacked,es,Lectura punto cero presión,bar,-0.020,0.020,PRES_ZERO
+cert_es_stacked,es,Lectura punto cero caudal,L/min,-0.30,0.30,FLOW_ZERO
+cert_es_stacked,es,Lectura punto 75 % temperatura,°C,74.85,75.15,TEMP_75
+cert_es_stacked,es,Caudal en punto 25 %,L/min,14.70,15.30,FLOW_25
+cert_es_stacked,es,Lectura punto 75 % presión,bar,7.480,7.520,PRES_75
+cert_es_stacked,es,"Temperatura en punto cero, descendente",°C,-0.15,0.15,TEMP_ZERO
+cert_es_stacked,es,"Lectura de humedad ambiente, control de banco",%RH,30.00,70.00,AMBH
+cert_es_stacked,es,"Control de longitud de cable, ciclo 2",m,1.00,5.00,none_of_these
+cert_es_stacked,es,Punto 3 - punto de prueba de resistencia de aislamiento,MOhm,100.00,1000.00,INSRES
+cert_es_stacked,es,Lectura de estabilidad a corto plazo,%,0.000,0.030,STAB
+cert_es_stacked,es,Punto de prueba de corriente de salida mínima,mA,3.980,4.020,IOUT0
+cert_es_stacked,es,Punto 25 % - lectura de temperatura,°C,24.85,25.15,TEMP_25
+cert_es_stacked,es,"Caudal en punto 75 %, tras acondicionamiento",L/min,44.70,45.30,FLOW_75
+cert_es_stacked,es,Temperatura en punto 50 %,°C,49.85,50.15,TEMP_50
+cert_es_stacked,es,Presión en punto 50 %,bar,4.980,5.020,PRES_50
+cert_es_stacked,es,Lectura punto fondo de escala caudal,L/min,59.70,60.30,FLOW_FULL_FS
+cert_es_stacked,es,Lectura punto 50 % caudal,L/min,29.70,30.30,FLOW_50
+cert_es_stacked,es,Lectura punto 25 % presión,bar,2.480,2.520,PRES_25
+cert_es_stacked,es,Punto de prueba de tasa de fuga,mL/min,0.00,0.50,LEAK
+cert_es_stacked,es,Punto 3 - punto de prueba de recuperación de sobrecarga,s,0.00,5.00,OVREC
+cert_es_stacked,es,Tiempo de calentamiento,min,0.00,30.00,none_of_these
+cert_es_stacked,es,Punto fondo de escala - lectura de presión,bar,9.980,10.020,PRES_FULL_FS
+cert_es_stacked,es,Punto de prueba de error por vibración,%,0.00,0.10,VIBE
+cert_es_stacked,es,"Lectura de error de desplazamiento, control de banco",%,-0.05,0.05,OFFSET
+cert_en_wrapped,en,"Offset error reading, bench check, after conditioning, ascending run 2 (after thermal conditioning)",%,-0.05,0.05,OFFSET
+cert_en_wrapped,en,"Cable length check, ascending run 2 (after thermal conditioning)",m,1.00,5.00,none_of_these
+cert_en_wrapped,en,"Reading point 3: thermal coefficient reading, ascending run 2 (after thermal conditioning)",%/K,-0.020,0.020,TEMPCO
+cert_en_wrapped,en,"Output current high end test point, ascending run 2 (after thermal conditioning)",mA,19.980,20.020,IOUT1
+cert_en_wrapped,en,"Reading point zero: temperature, ascending run 2 (after thermal conditioning)",°C,-0.15,0.15,TEMP_ZERO
+cert_en_wrapped,en,"Flow at 75 % point, ascending run 2 (after thermal conditioning)",L/min,44.70,45.30,FLOW_75
+cert_en_wrapped,en,"Flow 25 % point reading, ascending run 2 (after thermal conditioning)",L/min,14.70,15.30,FLOW_25
+cert_en_wrapped,en,"Firmware build check, ascending run 2 (after thermal conditioning)",id,1.00,9.00,none_of_these
+cert_en_wrapped,en,"Firmware build check, ascending run 2 (after thermal conditioning), run 2",id,1.00,9.00,none_of_these
+cert_en_wrapped,en,"Ambient humidity reading, ascending run 2 (after thermal conditioning)",%RH,30.00,70.00,AMBH
+cert_en_wrapped,en,"Reading point zero: pressure, ascending run 2 (after thermal conditioning)",bar,-0.020,0.020,PRES_ZERO
+cert_en_wrapped,en,"Pressure 25 % point reading, ascending run 2 (after thermal conditioning)",bar,2.480,2.520,PRES_25
+cert_en_wrapped,en,"Reading point 3: output noise reading, ascending run 2 (after thermal conditioning)",mV,0.00,2.00,NOISE
+cert_en_wrapped,en,"Gain error reading, ascending run 2 (after thermal conditioning)",%,-0.05,0.05,GAIN
+cert_en_wrapped,en,"Cable resistance test point, ascending run 2 (after thermal conditioning)",Ohm,0.00,2.00,CABRES
+cert_en_wrapped,en,"Temperature full scale point reading, ascending run 2 (after thermal conditioning)",°C,99.85,100.15,TEMP_FULL_FS
+cert_en_wrapped,en,"Hysteresis reading, ascending run 2 (after thermal conditioning)",%,0.00,0.10,HYST
+cert_en_wrapped,en,"24 h drift test point, bench check, descending, ascending run 2 (after thermal conditioning)",%,0.000,0.080,DRIFT24
+cert_en_wrapped,en,"Display brightness check, ascending run 2 (after thermal conditioning)",%,50.00,100.00,none_of_these
+cert_en_wrapped,en,"Flow full scale point reading, ascending run 2 (after thermal conditioning)",L/min,59.70,60.30,FLOW_FULL_FS
+cert_en_wrapped,en,"Temperature 75 % point reading, ascending run 2 (after thermal conditioning)",°C,74.85,75.15,TEMP_75
+cert_en_wrapped,en,"Cable length check, ascending run 2 (after thermal conditioning), run 2",m,1.00,5.00,none_of_these
+cert_en_wrapped,en,"Pressure 50 % point reading, ascending run 2 (after thermal conditioning)",bar,4.980,5.020,PRES_50
+cert_en_wrapped,en,"Pressure 75 % point reading, ascending run 2 (after thermal conditioning)",bar,7.480,7.520,PRES_75
+cert_en_wrapped,en,"Ambient temperature reading, ascending run 2 (after thermal conditioning)",°C,18.00,28.00,AMBT
+cert_en_wrapped,en,"Reading point 3: bridge resistance reading, ascending run 2 (after thermal conditioning)",Ohm,345.00,355.00,BRIDGE
+cert_en_wrapped,en,"Temperature 25 % point reading, ascending run 2 (after thermal conditioning)",°C,24.85,25.15,TEMP_25
+cert_en_wrapped,en,"Cable length check, ascending run 2 (after thermal conditioning), run 3",m,1.00,5.00,none_of_these
+cert_en_wrapped,en,"Warm-up time, ascending run 2 (after thermal conditioning)",min,0.00,30.00,none_of_these
+cert_en_wrapped,en,"Response time reading, ascending run 2 (after thermal conditioning)",s,0.00,2.00,RESP
+cert_en_wrapped,en,"Reading point 3: repeatability reading, ascending run 2 (after thermal conditioning)",%,0.000,0.050,REPEAT
